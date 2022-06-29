@@ -1,0 +1,129 @@
+h1 {
+  font-family: 'Smooch', cursive;
+  margin-top: 30px;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: normal;
+  font-size: 2rem;
+  margin: 10px auto 0px auto;
+}
+
+h3 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Rubik', sans-serif;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  width: 30%;
+  border-style: dotted;
+  border-width: 5px;
+  border-top: 0px;
+  border-color: black;
+}
+
+.top-container {
+  background-color: #76BA99;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #FFDCAE;
+  padding-bottom: 1px;
+}
+
+.bottom-container {
+  background-color: #76BA99;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skills {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin-top: 10px;
+  text-align: left;
+  line-height: 1.5;
+  display: inline-block;
+}
+
+.computerImg {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ideaImg {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+.profile {
+  margin: auto 200px 20px 200px;
+  line-height: 1.5;
+}
+
+.my-photo {
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+}
+
+.contact-me {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  font-family: 'Rubik', sans-serif;
+  background-color: #76BA99;
+  color: black;
+  padding: 5px;
+}
+
+.footer-link {
+  font-family: 'Rubik', sans-serif;
+  color: black;
+  background-color: #FFDCAE;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.surname-paragaraph {
+  margin-top: 20px;
+}
